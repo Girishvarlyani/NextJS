@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "question": "Why we go for reducer ?"
+    },
+    {
+        "id": 2,
+        "question": "Whey we go for useState ?"
+    },
+    {
+        "id": 3,
+        "question": "How many ways can pass asynchronous action resutls back to caller?"
+    },
+    {
+        "id": 4,
+        "question": "How many ways we can get the data from Promise object"
+    },
+    {
+        "id": 5,
+        "question": "inline vs block level"
+    },
+    {
+        "id": 6,
+        "question": "absolute vs fixed"
+    },
+    {
+        "id": 7,
+        "question": "What is Boxmodel ?"
+    },
+    {
+        "id": 8,
+        "question": "Tell sometingabout event object"
+    },
+    {
+        "id": 9,
+        "question": "How many ways can create a class in JS?"
+    },
+    {
+        "id": 10,
+        "question": "How many was can implment state management at application level ?"
+    },
+    {
+        "id": 11,
+        "question": "What is Java?"
+    },
+    {
+        "id": 12,
+        "question": "Service BAsed Or PRoduct BAsed?"
+    }
+]

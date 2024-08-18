@@ -1,0 +1,9 @@
+.buttons {
+    box-sizing: border-box;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 48vh;
+
+}
