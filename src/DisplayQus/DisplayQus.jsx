@@ -7,7 +7,7 @@ export const DisplayQus=()=> {
   return (
     <div>
         {questions.map(qus=>{
-            return <div className={styles.buttons}><Button key={qus.id}questions={qus.question} id={qus.id}/></div>
+            return <div key={qus.id} className={styles.buttons}><Button  questions={qus.question} id={qus.id}/></div>
         })}
     </div>
   )
