@@ -28,7 +28,7 @@ export const Button=(props)=> {
     
   return (
    
-             !modal && <div className={styles.btnDiv} onClick={handleMask}>
+              <div className={styles.btnDiv} onClick={handleMask}>
              {props.id}
             {/* {props.questions} */}
             <Image  src="/eye.png" width={25} height={20} onClick={handleImageClick} />
